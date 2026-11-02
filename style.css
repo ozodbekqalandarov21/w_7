@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: 85px auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav1{
+    display: flex;
+    gap: 5px;
+}
+.rasim1{
+    width: 37px;
+    height: 45px;
+}
+h4{
+    width: 105px;
+    height: 53px;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 100%;
+    color: #58A9A5;
+}
+.nav_section{
+    display: flex;
+    gap: 220px;
+    align-items: center;
+}
+.list{
+    display: flex;
+    gap: 86px;
+}
+.list li{
+    list-style-type: none;
+}
+.list li a{
+    text-decoration: none;
+    font-size: 25px;
+    width: 102px;
+    height: 38px;
+    font-weight: 400;
+    color: #404242;
+}
+.b{
+    width: 275px;
+    height: 80px;
+    font-size: 25px;
+    color: #ffff;
+    background-color: #58A9A5;
+    border-radius: 15px;
+}
+.hero{
+    display: flex;
+    justify-content: space-between; 
+    margin: 100px auto;
+}
+.rasim2{
+    width: 835px;
+    height: 785px;
+}
+
+.h_lar{
+    font-size: 70px;
+    width: 600px;
+    height: 315px;
+}
+.p_lar{
+    font-size: 35px;
+    width: 690px;
+    height: 180px;
+}
